@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 from scipy.spatial import distance as dist
 
-cap = cv2.VideoCapture("d:/Estudos/Python/ps-4si/q2/q2.mp4")
+cap = cv2.VideoCapture("q2.mp4")
 font = cv2.FONT_HERSHEY_SIMPLEX
 
 
