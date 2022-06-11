@@ -4,11 +4,11 @@
 
 **Prova prática em grupo com consulta.**
 
-Nome: Aline Satie Kamo                       RM: 82949 
-Nome: José Ventura Morais Junior      RM: 83867 
-Nome: Matheus Sena Silva                  RM: 82870 
-Nome: Pedro Chaves Martins              RM: 83518 
-Nome: Vinicius de Souza Scarabelli	   RM: 83308 
+###### Nome:__Aline Satie Kamo__________________RM:__82949
+###### Nome:__José Ventura Morais Junior________RM:__83867
+###### Nome:__Matheus Sena Silva________________RM:__82870
+###### Nome:__Pedro Chaves Martins______________RM:__83518
+###### Nome:__Vinicius de Souza Scarabelli______RM:__83308
 
 
 Observações da avaliação nesta disciplina:
